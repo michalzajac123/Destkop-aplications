@@ -1,0 +1,11 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\bin\Debug\notatnik.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\bin\Debug\notatnik.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\bin\Debug\notatnik.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\notatnik\notatnik\obj\Debug\notatnik.pdb
