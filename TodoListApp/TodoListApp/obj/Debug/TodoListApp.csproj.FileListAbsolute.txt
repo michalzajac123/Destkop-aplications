@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe.config
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\bin\Debug\TodoListApp.pdb
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.toDoList.resources
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe
+C:\Users\Admin\Desktop\Michał Zając\TodoListApp\TodoListApp\obj\Debug\TodoListApp.pdb

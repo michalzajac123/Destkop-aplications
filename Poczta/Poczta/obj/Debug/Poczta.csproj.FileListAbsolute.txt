@@ -1,0 +1,11 @@
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\bin\Debug\Poczta.exe.config
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\bin\Debug\Poczta.exe
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\bin\Debug\Poczta.pdb
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.csproj.AssemblyReference.cache
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.Form1.resources
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.Properties.Resources.resources
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.csproj.GenerateResource.cache
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.exe
+C:\Users\Egzamin.komputer_2\Desktop\Michał Zając\Poczta\Poczta\obj\Debug\Poczta.pdb

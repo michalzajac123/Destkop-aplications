@@ -1,0 +1,8 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\bin\Debug\prymitywna baza danych.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\bin\Debug\prymitywna baza danych.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\bin\Debug\prymitywna baza danych.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\obj\Debug\prymitywna baza danych.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\obj\Debug\prymitywna baza danych.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\obj\Debug\prymitywna baza danych.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\obj\Debug\prymitywna baza danych.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\prymitywna baza danych\prymitywna baza danych\obj\Debug\prymitywna baza danych.pdb

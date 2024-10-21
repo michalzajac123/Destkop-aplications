@@ -1,0 +1,11 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\bin\Debug\sprawdzian.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\bin\Debug\sprawdzian.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\bin\Debug\sprawdzian.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sprawdzian\sprawdzian\obj\Debug\sprawdzian.pdb

@@ -1,0 +1,8 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\bin\Debug\Zapis do pliku.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\bin\Debug\Zapis do pliku.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\bin\Debug\Zapis do pliku.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\obj\Debug\Zapis do pliku.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\obj\Debug\Zapis do pliku.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\obj\Debug\Zapis do pliku.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\obj\Debug\Zapis do pliku.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Zapis do pliku\Zapis do pliku\obj\Debug\Zapis do pliku.pdb
