@@ -48,8 +48,9 @@ namespace notatnik
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 string filePath = ofd.FileName;
+                float size = new FileInfo(ofd.FileName).Length;
                 FileName = filePath;
-                pathToFileLabel.Text = filePath;
+                pathToFileLabel.Text = filePath + "Waży: "+size+" B";
                 try
                 {
                     string fileContent = File.ReadAllText(filePath);

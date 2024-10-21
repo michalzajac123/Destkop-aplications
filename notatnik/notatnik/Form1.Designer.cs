@@ -124,7 +124,7 @@
             // pathToFileLabel
             // 
             this.pathToFileLabel.AutoSize = true;
-            this.pathToFileLabel.Location = new System.Drawing.Point(126, 9);
+            this.pathToFileLabel.Location = new System.Drawing.Point(63, 9);
             this.pathToFileLabel.Name = "pathToFileLabel";
             this.pathToFileLabel.Size = new System.Drawing.Size(159, 13);
             this.pathToFileLabel.TabIndex = 8;
