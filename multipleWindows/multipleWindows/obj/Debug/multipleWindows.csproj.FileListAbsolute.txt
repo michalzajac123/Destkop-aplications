@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.Properties.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.CoreCompileInputs.cache

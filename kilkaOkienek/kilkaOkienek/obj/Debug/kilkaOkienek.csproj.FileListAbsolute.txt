@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\bin\Debug\kilkaOkienek.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\bin\Debug\kilkaOkienek.exe
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\bin\Debug\kilkaOkienek.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.exe
+C:\Users\Admin\Desktop\Destkop-aplications\kilkaOkienek\kilkaOkienek\obj\Debug\kilkaOkienek.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\bin\Debug\przekazywanie imienia.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\bin\Debug\przekazywanie imienia.exe
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\bin\Debug\przekazywanie imienia.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie_imienia.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie_imienia.Form2.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie_imienia.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.exe
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie imienia\przekazywanie imienia\obj\Debug\przekazywanie imienia.pdb

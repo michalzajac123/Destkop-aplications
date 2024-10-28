@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\bin\Debug\kalkulator w okienkach.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\bin\Debug\kalkulator w okienkach.exe
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\bin\Debug\kalkulator w okienkach.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator_w_okienkach.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator_w_okienkach.Form2.resources
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator_w_okienkach.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.exe
+C:\Users\Admin\Desktop\Destkop-aplications\kalkulator w okienkach\kalkulator w okienkach\obj\Debug\kalkulator w okienkach.pdb

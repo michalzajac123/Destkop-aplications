@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\bin\Debug\form.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\bin\Debug\form.exe
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\bin\Debug\form.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.exe
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\form\form\obj\Debug\form.Form2.resources

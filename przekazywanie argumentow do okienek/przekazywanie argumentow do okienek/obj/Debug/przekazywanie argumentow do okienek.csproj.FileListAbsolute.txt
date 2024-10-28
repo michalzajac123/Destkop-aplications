@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\bin\Debug\przekazywanie argumentow do okienek.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\bin\Debug\przekazywanie argumentow do okienek.exe
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\bin\Debug\przekazywanie argumentow do okienek.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie_argumentow_do_okienek.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie_argumentow_do_okienek.Form2.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie_argumentow_do_okienek.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.exe
+C:\Users\Admin\Desktop\Destkop-aplications\przekazywanie argumentow do okienek\przekazywanie argumentow do okienek\obj\Debug\przekazywanie argumentow do okienek.pdb
