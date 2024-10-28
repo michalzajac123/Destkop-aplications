@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\bin\Debug\Zamowienie.exe.config
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\bin\Debug\Zamowienie.exe
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\bin\Debug\Zamowienie.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.Form1.resources
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.Properties.Resources.resources
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.exe
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.pdb
+C:\Users\Admin\Desktop\Destkop-aplications\Zamowienie\Zamowienie\obj\Debug\Zamowienie.Form2.resources
