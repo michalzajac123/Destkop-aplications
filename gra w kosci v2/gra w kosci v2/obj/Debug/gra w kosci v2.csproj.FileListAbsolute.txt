@@ -1,0 +1,18 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\gra w kosci v2.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\gra w kosci v2.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\gra w kosci v2.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra_w_kosci_v2.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra_w_kosci_v2.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra w kosci v2.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice1.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice2.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice3.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice4.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice5.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\bin\Debug\Images\dice6.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\gra w kosci v2\gra w kosci v2\obj\Debug\gra_w_kosci_v2.Form2.resources

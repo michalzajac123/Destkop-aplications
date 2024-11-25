@@ -1,0 +1,17 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice1.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice2.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice3.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice4.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice5.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Images\dice6.png
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Gra w kosci.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Gra w kosci.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\bin\Debug\Gra w kosci.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra_w_kosci.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra_w_kosci.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\Gra w kosci\Gra w kosci\obj\Debug\Gra w kosci.pdb

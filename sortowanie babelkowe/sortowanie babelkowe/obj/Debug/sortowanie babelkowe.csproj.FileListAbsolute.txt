@@ -1,0 +1,8 @@
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\sortowanie babelkowe.exe.config
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\sortowanie babelkowe.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\bin\Debug\sortowanie babelkowe.pdb
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\sortowanie babelkowe.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\sortowanie babelkowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\sortowanie babelkowe.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\sortowanie babelkowe.exe
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Michał Zając\C#\sortowanie babelkowe\sortowanie babelkowe\obj\Debug\sortowanie babelkowe.pdb
