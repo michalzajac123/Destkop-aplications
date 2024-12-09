@@ -4,3 +4,9 @@ C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\D
 C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.Properties.Resources.resources
 C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.GenerateResource.cache
 C:\Users\Admin\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.CoreCompileInputs.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.AssemblyReference.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.Properties.Form1.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.Properties.Resources.resources
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.GenerateResource.cache
+C:\Users\egzamin.DESKTOP-QNOOA4L\Desktop\Destkop-aplications\multipleWindows\multipleWindows\obj\Debug\multipleWindows.csproj.CoreCompileInputs.cache
