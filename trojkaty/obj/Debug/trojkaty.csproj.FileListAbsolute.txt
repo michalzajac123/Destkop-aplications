@@ -1,0 +1,11 @@
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\bin\Debug\trojkaty.exe.config
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\bin\Debug\trojkaty.exe
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\bin\Debug\trojkaty.pdb
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.csproj.AssemblyReference.cache
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.csproj.SuggestedBindingRedirects.cache
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.Form1.resources
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.Properties.Resources.resources
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.csproj.GenerateResource.cache
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.csproj.CoreCompileInputs.cache
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.exe
+E:\szkola\D_SIKORA\C#\12.09\trojkaty\obj\Debug\trojkaty.pdb
